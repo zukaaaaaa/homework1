@@ -1,0 +1,35 @@
+
+
+
+p:first-child{
+    color: red;
+}
+
+p:nth-child(odd) {
+    color: red;
+}
+
+.input {
+    outline: none;
+}
+
+input:focus {
+    border: 2px blue;
+    background-color: lightblue
+    color:red
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.text::first-line {
+    color: green;
+}
